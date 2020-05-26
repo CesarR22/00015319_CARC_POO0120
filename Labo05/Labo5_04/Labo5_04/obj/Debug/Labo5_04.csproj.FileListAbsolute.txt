@@ -1,0 +1,5 @@
+C:\Users\dougl\RiderProjects\Labo5_04\Labo5_04\bin\Debug\Labo5_04.exe
+C:\Users\dougl\RiderProjects\Labo5_04\Labo5_04\bin\Debug\Labo5_04.pdb
+C:\Users\dougl\RiderProjects\Labo5_04\Labo5_04\obj\Debug\Labo5_04.csprojAssemblyReference.cache
+C:\Users\dougl\RiderProjects\Labo5_04\Labo5_04\obj\Debug\Labo5_04.exe
+C:\Users\dougl\RiderProjects\Labo5_04\Labo5_04\obj\Debug\Labo5_04.pdb

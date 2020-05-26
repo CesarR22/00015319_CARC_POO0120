@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication2", "ConsoleApplication2\ConsoleApplication2.csproj", "{7F6EE5EA-6839-47B2-93B1-96AB44E6B6A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F6EE5EA-6839-47B2-93B1-96AB44E6B6A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F6EE5EA-6839-47B2-93B1-96AB44E6B6A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F6EE5EA-6839-47B2-93B1-96AB44E6B6A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F6EE5EA-6839-47B2-93B1-96AB44E6B6A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

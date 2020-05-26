@@ -1,0 +1,9 @@
+C:\Users\dougl\RiderProjects\Labo_07\bin\Debug\Labo_07.exe.config
+C:\Users\dougl\RiderProjects\Labo_07\bin\Debug\Labo_07.exe
+C:\Users\dougl\RiderProjects\Labo_07\bin\Debug\Labo_07.pdb
+C:\Users\dougl\RiderProjects\Labo_07\obj\Debug\Labo_07.csprojAssemblyReference.cache
+C:\Users\dougl\RiderProjects\Labo_07\obj\Debug\Labo_07.Properties.Resources.resources
+C:\Users\dougl\RiderProjects\Labo_07\obj\Debug\Labo_07.csproj.GenerateResource.cache
+C:\Users\dougl\RiderProjects\Labo_07\obj\Debug\Labo_07.exe
+C:\Users\dougl\RiderProjects\Labo_07\obj\Debug\Labo_07.pdb
+C:\Users\dougl\RiderProjects\Labo_07\obj\Debug\Labo_07.Form1.resources
