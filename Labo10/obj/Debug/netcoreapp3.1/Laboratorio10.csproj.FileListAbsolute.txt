@@ -1,0 +1,13 @@
+C:\Users\js_pr\RiderProjects\Laboratorio10\bin\Debug\netcoreapp3.1\Laboratorio10.exe
+C:\Users\js_pr\RiderProjects\Laboratorio10\bin\Debug\netcoreapp3.1\Laboratorio10.deps.json
+C:\Users\js_pr\RiderProjects\Laboratorio10\bin\Debug\netcoreapp3.1\Laboratorio10.runtimeconfig.json
+C:\Users\js_pr\RiderProjects\Laboratorio10\bin\Debug\netcoreapp3.1\Laboratorio10.runtimeconfig.dev.json
+C:\Users\js_pr\RiderProjects\Laboratorio10\bin\Debug\netcoreapp3.1\Laboratorio10.dll
+C:\Users\js_pr\RiderProjects\Laboratorio10\bin\Debug\netcoreapp3.1\Laboratorio10.pdb
+C:\Users\js_pr\RiderProjects\Laboratorio10\obj\Debug\netcoreapp3.1\Laboratorio10.csprojAssemblyReference.cache
+C:\Users\js_pr\RiderProjects\Laboratorio10\obj\Debug\netcoreapp3.1\Laboratorio10.AssemblyInfoInputs.cache
+C:\Users\js_pr\RiderProjects\Laboratorio10\obj\Debug\netcoreapp3.1\Laboratorio10.AssemblyInfo.cs
+C:\Users\js_pr\RiderProjects\Laboratorio10\obj\Debug\netcoreapp3.1\Laboratorio10.csproj.CoreCompileInputs.cache
+C:\Users\js_pr\RiderProjects\Laboratorio10\obj\Debug\netcoreapp3.1\Laboratorio10.dll
+C:\Users\js_pr\RiderProjects\Laboratorio10\obj\Debug\netcoreapp3.1\Laboratorio10.pdb
+C:\Users\js_pr\RiderProjects\Laboratorio10\obj\Debug\netcoreapp3.1\Laboratorio10.genruntimeconfig.cache
